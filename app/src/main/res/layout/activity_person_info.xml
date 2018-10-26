@@ -45,7 +45,7 @@
         android:layout_below="@+id/nameTextView"
         android:layout_marginStart="37dp"
         android:padding="10dp"
-        android:text="member -"
+        android:text="Member -"
         android:textSize="18sp" />
 
     <TextView
@@ -54,9 +54,10 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="216dp"
+        android:layout_marginBottom="244dp"
         android:text="Earnings"
-        android:textSize="18sp"/>
+        android:padding="10dp"
+        android:textSize="18sp" />
 
     <TextView
         android:id="@+id/textView6"
