@@ -20,7 +20,9 @@
         <activity
             android:name=".Create_room_join_room"
             android:label="@string/title_activity_create_room_join_room"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Login" />
+        <activity android:name=".PersonInfo"></activity>
     </application>
 
 </manifest>
