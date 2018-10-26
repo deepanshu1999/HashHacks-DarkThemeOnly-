@@ -58,7 +58,26 @@
         android:layout_alignParentStart="true"
         android:layout_below="@+id/emi"
         android:text="Enter the number of months in which you can repay the loan"
-        android:textSize="18sp"/>
+        android:textSize="18sp"
+        android:padding="10dp"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:id="@+id/time"
+        android:layout_below="@+id/textView7" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="23dp"
+        android:text="Request Loan"
+        android:padding="10dp"/>
 
 
 </RelativeLayout>
