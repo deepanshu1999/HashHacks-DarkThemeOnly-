@@ -1,5 +1,5 @@
 
-**Dhan India**
+/**Dhan India**
 In this app we are trying to create groups of people and connect them economically. 
 
 This group can be created by anyone and the person creating the group will be the head of the group. Head will be responsible for money transictions within in the group and will get benefits for its work.
