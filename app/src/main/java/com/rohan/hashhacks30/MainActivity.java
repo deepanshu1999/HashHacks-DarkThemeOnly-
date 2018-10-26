@@ -10,7 +10,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sign_up_activity);
-        Intent i=new Intent(MainActivity.this,PersonInfo.class);
-        startActivity(i);
+        
     }
 }
