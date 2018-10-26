@@ -39,6 +39,7 @@ At present we deal within a single community. So we plan at interconnecting two 
 - currency value dips and hikes
 
 **this app could really grow further**
+![alt text](https://drive.google.com/file/d/1mXsFry_cL0ZmOjHbGGwOezoYYfLORMlm/view)
 
 https://drive.google.com/file/d/1mXsFry_cL0ZmOjHbGGwOezoYYfLORMlm/view
 
