@@ -57,7 +57,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_below="@+id/emi"
-        android:text="Enter the number of months in which you can repay the loan" />
+        android:text="Enter the number of months in which you can repay the loan"
+        android:textSize="18sp"/>
 
 
 </RelativeLayout>
